@@ -1,5 +1,5 @@
-# BT4012_Group_14
-Machine Learning Problem
+## BT4012_Group_14
+# Machine Learning Problem
 
 Phishing attacks are a critical cybersecurity challenge, posing significant risks to both individuals and organizations by exploiting deceptive emails to steal sensitive information. Traditional detection methods, such as blacklisting and signature-based approaches, often struggle to adapt to evolving threats, leading to high false-positive rates and insufficient accuracy. Studies like Advancing Phishing Email Detection: A Comparative Study of Deep Learning Models (Altwaijry et al., 2024) have demonstrated the effectiveness of deep learning models, such as CNNs with LSTM and GRU layers, in enhancing phishing email detection by capturing both local and sequential patterns in email content.
 
